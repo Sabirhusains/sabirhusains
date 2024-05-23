@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Sabirhusain Sheliya">「 Google Me 」</a>
     <br>
-    「 I am a Flutter Mobile Application developer from <b>India</b> 」
+    I am a Flutter Mobile Application developer from <b>India</b>My passion is solving real-world problems through software and I am skilled in creating dynamic and intuitive user interfaces using the Flutter framework. With a background in computer science and a strong focus on user experience, I am always looking for new and innovative ways to improve the apps I develop. In my free time, I enjoy staying up-to-date with the latest developments in the tech industry and exploring new technologies.How to Build and Release App In Flutter Development.Good knowledge on UI Components and Designing.Experience on Flutter SDK Development.Having knowledge on Google maps, SQLite.Knowledge on App Layouts, UI Elements,We have Knowledge of How to Upload Build And Release App On Playstore and AppStore And other Platform..
     <br>
     <br>
   </samp>
