@@ -84,8 +84,8 @@
 <br/>
 
 ## Top Open Source -
-[![My.Solution](https://github-readme-stats.vercel.app/api/pin/?username=Sabirhusains&repo=My.solution&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sabirhusains/itasks)
-[![Bill_Splitter](https://github-readme-stats.vercel.app/api/pin/?username=Sabirhusains&repo=Bill_Splitter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sabirhusains/itasks)
+[![My.Solution](https://github-readme-stats.vercel.app/api/pin/?username=Sabirhusains&repo=My.solution&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sabirhusains/My.solution)
+[![Bill_Splitter](https://github-readme-stats.vercel.app/api/pin/?username=Sabirhusains&repo=Bill_Splitter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sabirhusains/Bill_Splitter)
 <p align="left">
   <a href="https://github.com/sabirhusains?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
