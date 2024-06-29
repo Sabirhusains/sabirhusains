@@ -80,7 +80,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-563D7C?style=for-the-badge&logo=firebase&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=teal)
+![Supabase](https://img.shields.io/badge/supabase-0078d7?style=for-the-badge&logo=supabase&logoColor=white)
 
 <br/>
 
